@@ -1,0 +1,10 @@
+.env
+credentials.json
+token.json
+discovery/raw_exports/
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+*.log
+input-module/recordings/
